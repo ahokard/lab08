@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include -isystem /home/anton/workspace/projects/lab05/third-party/gtest/googlemock -isystem /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include -isystem /home/anton/workspace/projects/lab05/third-party/gtest/googletest
+CXX_INCLUDES = -isystem /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include -isystem /home/anton/workspace/projects/lab06/third-party/gtest/googlemock -isystem /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include -isystem /home/anton/workspace/projects/lab06/third-party/gtest/googletest
 
 CXX_FLAGS = -Wno-error=maybe-uninitialized -Wno-error -std=gnu++11 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
 

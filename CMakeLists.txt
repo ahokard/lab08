@@ -21,3 +21,14 @@ if(BUILD_TESTS)
 
     add_test(NAME check COMMAND $<TARGET_FILE:check>)
 endif()
+
+set(CPACK_PACKAGE_NAME "lab06")
+set(CPACK_PACKAGE_VERSION "0.1.0")
+set(CPACK_PACKAGE_CONTACT "deew5571@gmail.com")
+set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "C++ project with tests and CPack")
+set(CPACK_PACKAGE_VENDOR "ahokard")
+
+set(CPACK_GENERATOR "TGZ;DEB")
+set(CPACK_DEBIAN_PACKAGE_MAINTAINER "ahokard")
+
+include(CPack)

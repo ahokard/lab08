@@ -1,0 +1,9 @@
+Architecture: arm64
+Description: C++ project with tests and CPack
+Maintainer: ahokard
+Package: lab06
+Priority: optional
+Section: devel
+Version: 0.1.0
+Installed-Size: 4481
+

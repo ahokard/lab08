@@ -1,8 +1,8 @@
 third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock-all.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock-all.cc \
  /usr/include/stdc-predef.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-actions.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-actions.h \
  /usr/include/errno.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
@@ -116,7 +116,7 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/c++/14/bits/functional_hash.h \
  /usr/include/c++/14/bits/hash_bytes.h \
  /usr/include/c++/14/bits/basic_string.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/gmock-internal-utils.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/gmock-internal-utils.h \
  /usr/include/c++/14/ostream /usr/include/c++/14/ios \
  /usr/include/c++/14/exception /usr/include/c++/14/bits/exception_ptr.h \
  /usr/include/c++/14/bits/cxxabi_init_exception.h \
@@ -159,13 +159,13 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/c++/14/bits/locale_facets.tcc \
  /usr/include/c++/14/bits/basic_ios.tcc \
  /usr/include/c++/14/bits/ostream.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/gmock-generated-internal-utils.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/gmock-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/gmock-generated-internal-utils.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/gmock-port.h \
  /usr/include/assert.h /usr/include/c++/14/stdlib.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/istream \
  /usr/include/c++/14/bits/istream.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-linked_ptr.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-linked_ptr.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-port.h \
  /usr/include/string.h /usr/include/strings.h \
  /usr/include/aarch64-linux-gnu/sys/stat.h \
  /usr/include/aarch64-linux-gnu/bits/stat.h \
@@ -180,8 +180,8 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-port-arch.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/custom/gtest-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-port-arch.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/custom/gtest-port.h \
  /usr/include/unistd.h /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
  /usr/include/aarch64-linux-gnu/bits/environments.h \
  /usr/include/aarch64-linux-gnu/bits/confname.h \
@@ -191,10 +191,10 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/linux/close_range.h /usr/include/regex.h \
  /usr/include/c++/14/tuple /usr/include/c++/14/bits/uses_allocator.h \
  /usr/include/c++/14/tr1/tuple \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-port.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest.h \
  /usr/include/c++/14/limits \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-internal.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-internal.h \
  /usr/include/aarch64-linux-gnu/sys/wait.h /usr/include/signal.h \
  /usr/include/aarch64-linux-gnu/bits/signum-generic.h \
  /usr/include/aarch64-linux-gnu/bits/signum-arch.h \
@@ -242,26 +242,26 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/c++/14/bits/erase_if.h /usr/include/c++/14/set \
  /usr/include/c++/14/bits/stl_set.h \
  /usr/include/c++/14/bits/stl_multiset.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-message.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-filepath.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-string.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-type-util.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-message.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-filepath.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-string.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-type-util.h \
  /usr/include/c++/14/cxxabi.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/cxxabi_tweaks.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-death-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-death-test-internal.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-param-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-param-util.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-death-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-death-test-internal.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-param-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-param-util.h \
  /usr/include/c++/14/iterator /usr/include/c++/14/bits/stream_iterator.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-printers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/custom/gtest-printers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-param-util-generated.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest_prod.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-test-part.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-typed-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest_pred_impl.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-printers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/custom/gtest-printers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-param-util-generated.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest_prod.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-test-part.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-typed-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest_pred_impl.h \
  /usr/include/c++/14/functional /usr/include/c++/14/bits/std_function.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-cardinalities.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-cardinalities.h \
  /usr/lib/gcc/aarch64-linux-gnu/14/include/limits.h \
  /usr/lib/gcc/aarch64-linux-gnu/14/include/syslimits.h \
  /usr/include/limits.h /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
@@ -270,11 +270,11 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-generated-actions.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-generated-actions.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-generated-function-mockers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-spec-builders.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-matchers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-generated-actions.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-generated-actions.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-generated-function-mockers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-spec-builders.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-matchers.h \
  /usr/include/c++/14/math.h /usr/include/c++/14/cmath /usr/include/math.h \
  /usr/include/aarch64-linux-gnu/bits/math-vector.h \
  /usr/include/aarch64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -286,13 +286,13 @@ third-party/gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o: \
  /usr/include/aarch64-linux-gnu/bits/mathcalls.h \
  /usr/include/aarch64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/aarch64-linux-gnu/bits/iscanonical.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-matchers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-generated-matchers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-generated-nice-strict.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-more-actions.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/include/gmock/gmock-more-matchers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock-cardinalities.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock-internal-utils.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock-matchers.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock-spec-builders.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googlemock/src/gmock.cc
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/internal/custom/gmock-matchers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-generated-matchers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-generated-nice-strict.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-more-actions.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/include/gmock/gmock-more-matchers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock-cardinalities.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock-internal-utils.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock-matchers.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock-spec-builders.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googlemock/src/gmock.cc

@@ -1,7 +1,7 @@
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-all.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-all.cc \
  /usr/include/stdc-predef.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest.h \
  /usr/include/c++/14/limits \
  /usr/include/aarch64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/os_defines.h \
@@ -159,8 +159,8 @@ third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-internal.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-internal.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-port.h \
  /usr/include/c++/14/stdlib.h /usr/include/string.h \
  /usr/include/strings.h /usr/include/aarch64-linux-gnu/sys/stat.h \
  /usr/include/aarch64-linux-gnu/bits/stat.h \
@@ -177,8 +177,8 @@ third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: \
  /usr/include/c++/14/istream /usr/include/c++/14/bits/istream.tcc \
  /usr/include/c++/14/sstream /usr/include/c++/14/bits/sstream.tcc \
  /usr/include/c++/14/utility /usr/include/c++/14/bits/stl_relops.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-port-arch.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/custom/gtest-port.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-port-arch.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/custom/gtest-port.h \
  /usr/include/unistd.h /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
  /usr/include/aarch64-linux-gnu/bits/environments.h \
  /usr/include/aarch64-linux-gnu/bits/confname.h \
@@ -235,29 +235,29 @@ third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: \
  /usr/include/c++/14/bits/erase_if.h /usr/include/c++/14/set \
  /usr/include/c++/14/bits/stl_set.h \
  /usr/include/c++/14/bits/stl_multiset.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-message.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-filepath.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-string.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-type-util.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-message.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-filepath.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-string.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-type-util.h \
  /usr/include/c++/14/cxxabi.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/cxxabi_tweaks.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-death-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-death-test-internal.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-param-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-param-util.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-death-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-death-test-internal.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-param-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-param-util.h \
  /usr/include/c++/14/iterator /usr/include/c++/14/bits/stream_iterator.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-linked_ptr.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-linked_ptr.h \
  /usr/include/assert.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-printers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/custom/gtest-printers.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/gtest-param-util-generated.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest_prod.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-test-part.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-typed-test.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest_pred_impl.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/internal/custom/gtest.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/include/gtest/gtest-spi.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-printers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/custom/gtest-printers.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/gtest-param-util-generated.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest_prod.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-test-part.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-typed-test.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest_pred_impl.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/internal/custom/gtest.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/include/gtest/gtest-spi.h \
  /usr/include/c++/14/math.h /usr/include/c++/14/cmath /usr/include/math.h \
  /usr/include/aarch64-linux-gnu/bits/math-vector.h \
  /usr/include/aarch64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -302,15 +302,15 @@ third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o: \
  /usr/include/aarch64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/aarch64-linux-gnu/bits/in.h /usr/include/netdb.h \
  /usr/include/rpc/netdb.h /usr/include/aarch64-linux-gnu/bits/netdb.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-internal-inl.h \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-death-test.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-filepath.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-internal-inl.h \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-death-test.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-filepath.cc \
  /usr/include/c++/14/climits \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-port.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-port.cc \
  /usr/include/c++/14/fstream \
  /usr/include/aarch64-linux-gnu/c++/14/bits/basic_file.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/c++io.h \
  /usr/include/c++/14/bits/fstream.tcc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-printers.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-test-part.cc \
- /home/anton/workspace/projects/lab05/third-party/gtest/googletest/src/gtest-typed-test.cc
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-printers.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-test-part.cc \
+ /home/anton/workspace/projects/lab06/third-party/gtest/googletest/src/gtest-typed-test.cc

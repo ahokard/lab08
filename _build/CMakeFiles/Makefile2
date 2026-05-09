@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/anton/workspace/projects/lab05
+CMAKE_SOURCE_DIR = /home/anton/workspace/projects/lab06
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/anton/workspace/projects/lab05/_build
+CMAKE_BINARY_DIR = /home/anton/workspace/projects/lab06/_build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -157,14 +157,14 @@ third-party/gtest/googlemock/gtest/clean: third-party/gtest/googlemock/gtest/CMa
 CMakeFiles/main.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=11,12 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=11,12 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : CMakeFiles/main.dir/rule
 
 # Convenience name for target.
@@ -174,7 +174,7 @@ main: CMakeFiles/main.dir/rule
 # codegen rule for target.
 CMakeFiles/main.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=11,12 "Finished codegen for target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=11,12 "Finished codegen for target main"
 .PHONY : CMakeFiles/main.dir/codegen
 
 # clean rule for target.
@@ -190,14 +190,14 @@ CMakeFiles/check.dir/all: third-party/gtest/googlemock/gtest/CMakeFiles/gtest.di
 CMakeFiles/check.dir/all: third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=1,2 "Built target check"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=1,2 "Built target check"
 .PHONY : CMakeFiles/check.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/check.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/check.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : CMakeFiles/check.dir/rule
 
 # Convenience name for target.
@@ -207,7 +207,7 @@ check: CMakeFiles/check.dir/rule
 # codegen rule for target.
 CMakeFiles/check.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=1,2 "Finished codegen for target check"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=1,2 "Finished codegen for target check"
 .PHONY : CMakeFiles/check.dir/codegen
 
 # clean rule for target.
@@ -222,14 +222,14 @@ CMakeFiles/check.dir/clean:
 third-party/gtest/googlemock/CMakeFiles/gmock.dir/all: third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock.dir/depend
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=3,4 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=3,4 "Built target gmock"
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
 third-party/gtest/googlemock/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 third-party/gtest/googlemock/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock.dir/rule
 
 # Convenience name for target.
@@ -239,7 +239,7 @@ gmock: third-party/gtest/googlemock/CMakeFiles/gmock.dir/rule
 # codegen rule for target.
 third-party/gtest/googlemock/CMakeFiles/gmock.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=3,4 "Finished codegen for target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=3,4 "Finished codegen for target gmock"
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock.dir/codegen
 
 # clean rule for target.
@@ -255,14 +255,14 @@ third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/all: third-party/gtest/go
 third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/all: third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=5,6 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=5,6 "Built target gmock_main"
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/rule
 
 # Convenience name for target.
@@ -272,7 +272,7 @@ gmock_main: third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/rule
 # codegen rule for target.
 third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/build.make third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=5,6 "Finished codegen for target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=5,6 "Finished codegen for target gmock_main"
 .PHONY : third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/codegen
 
 # clean rule for target.
@@ -287,14 +287,14 @@ third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/clean:
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all:
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/depend
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=7,8 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=7,8 "Built target gtest"
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.
@@ -304,7 +304,7 @@ gtest: third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/rule
 # codegen rule for target.
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=7,8 "Finished codegen for target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=7,8 "Finished codegen for target gtest"
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/codegen
 
 # clean rule for target.
@@ -319,14 +319,14 @@ third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/clean:
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/all: third-party/gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=9,10 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=9,10 "Built target gtest_main"
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab05/_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anton/workspace/projects/lab06/_build/CMakeFiles 0
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.
@@ -336,7 +336,7 @@ gtest_main: third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/rule
 # codegen rule for target.
 third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab05/_build/CMakeFiles --progress-num=9,10 "Finished codegen for target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/anton/workspace/projects/lab06/_build/CMakeFiles --progress-num=9,10 "Finished codegen for target gtest_main"
 .PHONY : third-party/gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/codegen
 
 # clean rule for target.
