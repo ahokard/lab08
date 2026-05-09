@@ -3,8 +3,7 @@ check: \
   /usr/lib/gcc/aarch64-linux-gnu/14/../../../aarch64-linux-gnu/crti.o \
   /usr/lib/gcc/aarch64-linux-gnu/14/crtbeginS.o \
   CMakeFiles/check.dir/tests/test1.cpp.o \
-  third-party/gtest/googlemock/gtest/libgtest_main.a \
-  third-party/gtest/googlemock/gtest/libgtest.a \
+  /home/anton/.hunter/_Base/5659b15/a78af3a/8a1641b/Install/lib/libfmtd.a \
   /usr/lib/gcc/aarch64-linux-gnu/14/libstdc++.so \
   /usr/lib/gcc/aarch64-linux-gnu/14/../../../aarch64-linux-gnu/libm.so \
   /usr/lib/gcc/aarch64-linux-gnu/14/../../../aarch64-linux-gnu/libm.so \
@@ -42,9 +41,7 @@ check: \
 
 CMakeFiles/check.dir/tests/test1.cpp.o:
 
-third-party/gtest/googlemock/gtest/libgtest_main.a:
-
-third-party/gtest/googlemock/gtest/libgtest.a:
+/home/anton/.hunter/_Base/5659b15/a78af3a/8a1641b/Install/lib/libfmtd.a:
 
 /usr/lib/gcc/aarch64-linux-gnu/14/libstdc++.so:
 

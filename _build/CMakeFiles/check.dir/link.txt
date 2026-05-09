@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wno-error=maybe-uninitialized -Wno-error -Wl,--dependency-file=CMakeFiles/check.dir/link.d CMakeFiles/check.dir/tests/test1.cpp.o -o check  third-party/gtest/googlemock/gtest/libgtest_main.a third-party/gtest/googlemock/gtest/libgtest.a
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/check.dir/link.d CMakeFiles/check.dir/tests/test1.cpp.o -o check  /home/anton/.hunter/_Base/5659b15/a78af3a/8a1641b/Install/lib/libfmtd.a

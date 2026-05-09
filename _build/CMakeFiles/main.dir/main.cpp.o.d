@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.cpp.o: \
- /home/anton/workspace/projects/lab06/main.cpp /usr/include/stdc-predef.h \
+ /home/anton/workspace/projects/lab07/main.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/14/bits/os_defines.h \

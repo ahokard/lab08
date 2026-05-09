@@ -1,4 +1,4 @@
-# Install script for directory: /home/anton/workspace/projects/lab06
+# Install script for directory: /home/anton/workspace/projects/lab07
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -42,16 +42,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/home/anton/workspace/projects/lab06/_build/third-party/gtest/cmake_install.cmake")
-
-endif()
-
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/anton/workspace/projects/lab06/_build/install_local_manifest.txt"
+  file(WRITE "/home/anton/workspace/projects/lab07/_build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -67,6 +61,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/anton/workspace/projects/lab06/_build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/anton/workspace/projects/lab07/_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

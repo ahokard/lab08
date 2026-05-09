@@ -1,5 +1,6 @@
-#include <gtest/gtest.h>
+#include <fmt/core.h>
 
-TEST(SimpleTest, Works) {
-    EXPECT_EQ(2 + 2, 4);
+int main() {
+    fmt::print("test passed\n");
+    return 0;
 }

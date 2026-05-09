@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS = -Wno-error=maybe-uninitialized -Wno-error -std=gnu++11
+CXX_FLAGS = -std=gnu++11
 
